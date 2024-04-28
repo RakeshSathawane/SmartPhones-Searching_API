@@ -1,6 +1,6 @@
 ### Hot Gadgets Search Project
 
-Hosted Link: [Hot Gadgets Search Project]()
+Hosted Link: [Hot Gadgets Search Project](https://rakeshsathawane.github.io/SmartPhones-Searching_API/)
 
 This project allows users to search for phones and view their details. It includes a search bar, a loading spinner, and a grid layout for displaying phone cards.
 
